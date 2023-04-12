@@ -7,13 +7,13 @@ Tanvir Ahmad, Assia Munir, Sajjad Haider Bhatti, Muhammad Aftab, and Muhammad Al
 
 Davide Chicco, Giuseppe Jurman: "Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone". BMC Medical Informatics and Decision Making 20, 16 (2020).
 
-All rights belong to those who share the data.
+All rights belong to those who share the raw data (CSV).
 
 
 
 The order of execution of the codes.
 
-1. table_to_image (included in TableToMat function)
+1.table_to_image (included in TableToMat function)
 
 2.image_cons (create rectangular coded images)
 
